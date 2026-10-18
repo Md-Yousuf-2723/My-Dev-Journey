@@ -1,1 +1,3 @@
-This repository contains my development journey
+This repository contains my development journey. 
+
+Folder contents : 
