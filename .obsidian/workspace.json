@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ef4112c427753aa9",
@@ -190,6 +191,7 @@
   },
   "active": "745da370b8e24bfe",
   "lastOpenFiles": [
+    "python/code.py",
     "python/Handwitten Note.md",
     "Excalidraw",
     "README.md",
