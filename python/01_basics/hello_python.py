@@ -6,6 +6,3 @@ def chai(n):
 
 chai("Leamon Tea")
 
-chai_one = "Lemon Tea"
-cha-two = "Ginger Tea"
-chai_three = "Masala Chai"
