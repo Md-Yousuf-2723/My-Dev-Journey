@@ -5,3 +5,6 @@ def chai(n):
     print("This is a chai function")
 
 chai("Leamon Tea")
+
+chai_one = "Lemon Tea"
+cha-two = "Ginger Tea"
