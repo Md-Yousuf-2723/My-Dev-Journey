@@ -6,3 +6,5 @@ def chai(n):
 
 chai("Leamon Tea")
 
+chai_one = "Lemon tea"
+chai_two = ""
