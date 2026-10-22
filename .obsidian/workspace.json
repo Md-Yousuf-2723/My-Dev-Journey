@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c08911679e406212",
+        "id": "ce9ee7edb6b8aaab",
         "type": "tabs",
         "children": [
           {
-            "id": "79e1e7af14da74ee",
+            "id": "f44b290864024122",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Python/Handwritten Note.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Handwritten Note"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -189,8 +187,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "79e1e7af14da74ee",
+  "active": "f44b290864024122",
   "lastOpenFiles": [
+    "Python/Handwritten Note.md",
     "Python/img/Pasted image 20261023041940.png",
     "Python/img/Pasted image 20261023043058.png",
     "Python/img/Pasted image 20261023044038.png",
@@ -201,10 +200,8 @@
     "Pasted image 20261023044038.png",
     "Pasted image 20261023043058.png",
     "Pasted image 20261023041940.png",
-    "IOS dev - Swift/img/Pasted image 20261022194441.png",
     "Python/README.md",
     "IOS dev - Swift/README.md",
-    "Python/Handwritten Note.md",
     "Python/codes",
     "README.md",
     "IOS dev - Swift/01_Swift Basics Bootcamp.md",
