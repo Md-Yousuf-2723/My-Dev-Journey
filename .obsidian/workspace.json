@@ -39,14 +39,12 @@
             "id": "40347c71975b4468",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Python/README.md",
-                "mode": "source",
-                "source": false
+                "file": "Python/Handwitten Note.md"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "excalidraw-icon",
+              "title": "Handwitten Note"
             }
           }
         ],
@@ -221,6 +219,7 @@
   },
   "active": "c5b71ead6758797e",
   "lastOpenFiles": [
+    "Python/README.md",
     "README.md",
     "IOS dev - Swift/README.md",
     "Pasted image 20261022191659.png",
@@ -246,7 +245,6 @@
     "Python/img",
     "IOS dev - Swift/img",
     "Python/01_basics/hello_python.py",
-    "Python/README.md",
     "Plans/Python OOP + DSA.md"
   ]
 }
