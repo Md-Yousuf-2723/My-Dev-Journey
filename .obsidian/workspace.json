@@ -11,12 +11,14 @@
             "id": "a2c7c66aa78d5c3f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Swift/Notes.md"
+                "file": "Swift/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Notes"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -81,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ef4112c427753aa9",
@@ -191,10 +192,10 @@
   },
   "active": "a2c7c66aa78d5c3f",
   "lastOpenFiles": [
-    "Pasted image 20261022183023.png",
+    "Swift/Notes.md",
+    "Swift/img/Pasted image 20261022183023.png",
     "Swift/img/Pasted image 20261022182833.png",
     "Swift/img",
-    "Swift/Notes.md",
     "Swift/Prompt I used.md",
     "python/Handwitten Note.md",
     "Swift/README.md",
@@ -208,7 +209,6 @@
     "python/img/Pasted image 20261019154956.png",
     "python/img/Pasted image 20261019155233.png",
     "python/img/Pasted image 20261019155832.png",
-    "python/img/Pasted image 20261019160003.png",
     "python/01_basics/chai.py",
     "python/img/chai.py",
     "python/01_basics/__pycache__/hello_python.cpython-315.pyc",
