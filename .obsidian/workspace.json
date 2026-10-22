@@ -23,12 +23,14 @@
             "id": "7b8059a6bd3d1a60",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Notes.md"
+                "file": "Swift/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Notes"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -201,10 +203,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c5b71ead6758797e",
+  "active": "7b8059a6bd3d1a60",
   "lastOpenFiles": [
+    "Swift/Notes.md",
+    "Swift/README.md",
     "python/Handwitten Note.md",
-    "Excalidraw/Notes.md",
     "Excalidraw",
     "Swift",
     "python/img/Pasted image 20261019152828.png",
