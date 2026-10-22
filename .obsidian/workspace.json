@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2c7c66aa78d5c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IOS dev - Swift/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "6018ac97980dfe18",
             "type": "leaf",
             "state": {
@@ -34,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "b0ad1fdfd664288a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IOS dev - Swift/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,11 +205,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a2c7c66aa78d5c3f",
+  "active": "b0ad1fdfd664288a",
   "lastOpenFiles": [
     "Python/README.md",
-    "Python/img/Pasted image 20261022193116.png",
     "IOS dev - Swift/README.md",
+    "Python/img/Pasted image 20261022193116.png",
     "Python/Handwritten Note.md",
     "IOS dev - Swift/img/Pasted image 20261022191659.png",
     "Python/codes",

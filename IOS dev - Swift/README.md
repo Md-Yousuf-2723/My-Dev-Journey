@@ -22,7 +22,8 @@ All the notes are taken in obsidian using Excalidraw plugin. To view my handwrit
 ## Please Support : 
 Youtube channel : [link](https://www.youtube.com/@SwiftfulThinking/featured) 
 Website : [Link](https://www.swiftful-thinking.com/store) 
-
+GitHub : [Link](https://github.com/SwiftfulThinking/) 
+Discord community : [Link]([discord.gg/vhKKyYTGDb](https://www.youtube.com/redirect?event=channel_description&redir_token=QUlxb01IYlV2TDMwd1ZpWm5BLUpmRFJ2RFVSRnxBSTVJdTV0TGg0dktMZDc1Xy1xRk1mRDBtbGJqVDRHS3dQcDBJbjdPSDJKWWhGSlI4bHRzbU9uOWpncVVsWDZYY2ZPNDZIWllGR1FXcWxxbWZFR2tlNENsSkItcW1VNVFCajhJ&q=https%3A%2F%2Fdiscord.gg%2FvhKKyYTGDb)) 
 
 
 
