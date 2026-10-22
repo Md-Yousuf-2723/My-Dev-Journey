@@ -15,4 +15,13 @@ The lectures are given in ==Hindi==. But the note is done in English.
 ## My  Handwritten Note
 Click -> [[Handwritten Note]] <- Click
 
+# This is not sponsored
+> Subscribe and support this kind of passionate developers and their youtube channel. This are pure gems. For their time and love for coding and teaching, many young developers are getting inspired including me. 
+> Love, respect and Thankful to them. 
+## Please Support : 
+Youtube channel : [link](https://www.youtube.com/@chaiaurcode) 
+Website : [Link]()
+GitHub : [Link](https://github.com/SwiftfulThinking/) 
+Discord community : [Link]([discord.gg/vhKKyYTGDb](https://www.youtube.com/redirect?event=channel_description&redir_token=QUlxb01IYlV2TDMwd1ZpWm5BLUpmRFJ2RFVSRnxBSTVJdTV0TGg0dktMZDc1Xy1xRk1mRDBtbGJqVDRHS3dQcDBJbjdPSDJKWWhGSlI4bHRzbU9uOWpncVVsWDZYY2ZPNDZIWllGR1FXcWxxbWZFR2tlNENsSkItcW1VNVFCajhJ&q=https%3A%2F%2Fdiscord.gg%2FvhKKyYTGDb)) 
+
 

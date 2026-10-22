@@ -35,8 +35,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +204,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b0ad1fdfd664288a",
+  "active": "6018ac97980dfe18",
   "lastOpenFiles": [
-    "Python/README.md",
     "IOS dev - Swift/README.md",
+    "Python/README.md",
     "Python/img/Pasted image 20261022193116.png",
     "Python/Handwritten Note.md",
     "IOS dev - Swift/img/Pasted image 20261022191659.png",
