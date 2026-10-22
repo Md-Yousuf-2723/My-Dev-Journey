@@ -18,23 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Notes"
             }
-          },
-          {
-            "id": "ff3d0d15f0f94788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt I use.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt I use"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +188,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ff3d0d15f0f94788",
+  "active": "745da370b8e24bfe",
   "lastOpenFiles": [
+    "Prompt I used.md",
     "Swift/Notes.md",
-    "Prompt I use.md",
     "python/Handwitten Note.md",
     "Swift/README.md",
     "Excalidraw",

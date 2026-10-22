@@ -218,7 +218,7 @@ Inside that folder is:
 
 Its current contents are:
 
-```
+
 cask "viddownloader" do
   version "1.0.0"
   sha256 "29b50d3dc36112728bebc8ada8819522ecf8b92fe2acf591a1154c58dcb9928a"
@@ -235,7 +235,7 @@ cask "viddownloader" do
     "~/Library/Preferences/com.viddownloader.app.plist",
   ]
 end
-```
+
 
 This is the Homebrew Cask definition for an existing macOS application that I built using Python.
 
