@@ -1,6 +1,6 @@
 # This repository contains my IOS development journey
 
-All the notes are taken in obsidian using Excalidraw 
+All the notes are taken in obsidian using Excalidraw plugin. To view my handwritten notes, [download](https://obsidian.md/download) obsidian 
 
 ## The learning guide I am following : 
 
