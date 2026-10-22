@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Handwitten Note"
             }
+          },
+          {
+            "id": "7b8059a6bd3d1a60",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Notes.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +201,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "745da370b8e24bfe",
+  "active": "c5b71ead6758797e",
   "lastOpenFiles": [
+    "python/Handwitten Note.md",
+    "Excalidraw/Notes.md",
+    "Excalidraw",
+    "Swift",
     "python/img/Pasted image 20261019152828.png",
     "python/img/Pasted image 20261019152939.png",
     "python/img/Pasted image 20261019153225.png",
@@ -200,7 +217,6 @@
     "python/img/Pasted image 20261019155832.png",
     "python/img/Pasted image 20261019160003.png",
     "python/img/Pasted image 20261019160230.png",
-    "python/img/Pasted image 20261019160903.png",
     "python/01_basics/chai.py",
     "python/img/chai.py",
     "python/01_basics/__pycache__/hello_python.cpython-315.pyc",
@@ -209,9 +225,6 @@
     "img",
     "python/01_basics/hello_python.py",
     "python/01_basics/code.py",
-    "python/01_basics",
-    "python/code.py",
-    "python/Handwitten Note.md",
     "README.md",
     "python/README.md",
     "Plans/Python OOP + DSA.md"
