@@ -13,28 +13,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "python/Handwitten Note.md"
+                "file": "Swift/Notes.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Handwitten Note"
-            }
-          },
-          {
-            "id": "7b8059a6bd3d1a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swift/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ef4112c427753aa9",
@@ -203,11 +189,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7b8059a6bd3d1a60",
+  "active": "745da370b8e24bfe",
   "lastOpenFiles": [
-    "Swift/Notes.md",
-    "Swift/README.md",
     "python/Handwitten Note.md",
+    "Swift/README.md",
+    "Swift/Notes.md",
     "Excalidraw",
     "Swift",
     "python/img/Pasted image 20261019152828.png",
