@@ -7,11 +7,11 @@ All the notes are taken in obsidian using Excalidraw plugin. To view my handwrit
 5. Then click on browse and search ==Excalidraw ==.
 6. Install and enable it. 
 
-## The playlist I am followed : 
+## The playlist I followed : 
 ![[Pasted image 20261022193116.png]]
 [Video - 01](https://youtu.be/v9bOWjwdTlg) -- Time : 10 : 22 : 06
 [Video - 02](https://youtu.be/Cri8__uGk-g) -- Time : 3 : 58 : 23
-
+The lectures are given in ==Hindi==. But the note is done in English.
 ## My  Handwritten Note
 Click -> [[Handwritten Note]] <- Click
 
