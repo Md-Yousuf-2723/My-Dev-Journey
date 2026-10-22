@@ -19,6 +19,8 @@ All the notes are taken in obsidian using Excalidraw plugin. To view my handwrit
 # This is not sponsored
 > Subscribe and support this kind of passionate developers and their youtube channel. This are pure gems. For their time and love for coding and teaching, many young developers are getting inspired including me. 
 > Love, respect and Thankful to them. 
-
+## Please Support : 
+Youtube channel : [link](https://www.youtube.com/@SwiftfulThinking/featured) 
+Web
 
 
