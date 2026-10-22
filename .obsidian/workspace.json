@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "a69fdc32fe00b310",
+            "id": "6018ac97980dfe18",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Python/Handwritten Note.md"
+                "file": "Python/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Handwritten Note"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -203,14 +205,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a69fdc32fe00b310",
+  "active": "c5b71ead6758797e",
   "lastOpenFiles": [
-    "IOS dev - Swift/img/Pasted image 20261022191659.png",
-    "Python/codes",
+    "Python/img/Pasted image 20261022193116.png",
+    "IOS dev - Swift/README.md",
     "Python/README.md",
     "Python/Handwritten Note.md",
+    "IOS dev - Swift/img/Pasted image 20261022191659.png",
+    "Python/codes",
     "README.md",
-    "IOS dev - Swift/README.md",
     "IOS dev - Swift/01_Swift Basics Bootcamp.md",
     "Swift/Prompt I used.md",
     "Swift/2026-10-22_18-57-23.png",
