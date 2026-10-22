@@ -11,10 +11,12 @@
             "id": "a2c7c66aa78d5c3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Swift/Notes.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Notes"
             }
           }
         ]
@@ -188,6 +190,8 @@
   },
   "active": "c5b71ead6758797e",
   "lastOpenFiles": [
+    "Swift/img/Pasted image 20261022182833.png",
+    "Swift/img",
     "Swift/Notes.md",
     "Swift/Prompt I used.md",
     "python/Handwitten Note.md",
@@ -209,9 +213,8 @@
     "python/01_basics/__pycache__/hello_python.cpython-315.pyc",
     "python/01_basics/__pycache__",
     "python/img",
-    "img",
+    "Swift/img",
     "python/01_basics/hello_python.py",
-    "python/01_basics/code.py",
     "README.md",
     "python/README.md",
     "Plans/Python OOP + DSA.md"
