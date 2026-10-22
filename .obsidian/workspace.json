@@ -11,12 +11,14 @@
             "id": "a2c7c66aa78d5c3f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "IOS dev - Swift/01_Swift Basics Bootcamp.md"
+                "file": "IOS dev - Swift/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "01_Swift Basics Bootcamp"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -188,10 +190,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c5b71ead6758797e",
+  "active": "a2c7c66aa78d5c3f",
   "lastOpenFiles": [
-    "IOS dev - Swift/README.md",
     "IOS dev - Swift/01_Swift Basics Bootcamp.md",
+    "IOS dev - Swift/README.md",
     "Swift/Prompt I used.md",
     "Swift/2026-10-22_18-57-23.png",
     "IOS dev - Swift/img/Pasted image 20261022183023.png",
