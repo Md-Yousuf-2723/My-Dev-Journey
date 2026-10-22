@@ -20,8 +20,7 @@ Click -> [[Handwritten Note]] <- Click
 > Love, respect and Thankful to them. 
 ## Please Support : 
 Youtube channel : [link](https://www.youtube.com/@chaiaurcode) 
-Website : [Link]()
-GitHub : [Link](https://github.com/SwiftfulThinking/) 
-Discord community : [Link]([discord.gg/vhKKyYTGDb](https://www.youtube.com/redirect?event=channel_description&redir_token=QUlxb01IYlV2TDMwd1ZpWm5BLUpmRFJ2RFVSRnxBSTVJdTV0TGg0dktMZDc1Xy1xRk1mRDBtbGJqVDRHS3dQcDBJbjdPSDJKWWhGSlI4bHRzbU9uOWpncVVsWDZYY2ZPNDZIWllGR1FXcWxxbWZFR2tlNENsSkItcW1VNVFCajhJ&q=https%3A%2F%2Fdiscord.gg%2FvhKKyYTGDb)) 
+Website : [Link]([chaicode.com](https://www.youtube.com/redirect?event=channel_description&redir_token=QUlxb01IWTBNWnZOM09uVXhvY0pIdUVOTVROU3xBSTVJdTV1Z0dlOFprNmNUdUxpWjNvMVVEb3k2YnpGZmFYTjVVWDhuU0VyZU8ycHB5djNiNFdtVnBjTHJMM2xNSFF3SHhVa1hFVnhiNUtZN05CX25SdHZETV9uY3h5MWlDdTJH&q=https%3A%2F%2Fchaicode.com) 
+Personal website : [Link](https://hiteshchoudhary.com/) 
 
 
