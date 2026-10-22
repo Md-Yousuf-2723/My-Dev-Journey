@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/README.md",
+                "file": "Python/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -219,7 +219,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "40347c71975b4468",
+  "active": "c5b71ead6758797e",
   "lastOpenFiles": [
     "README.md",
     "IOS dev - Swift/README.md",
@@ -230,23 +230,23 @@
     "IOS dev - Swift/img/Pasted image 20261022183023.png",
     "IOS dev - Swift/img/Pasted image 20261022182833.png",
     "IOS dev - Swift/img",
-    "python/Handwitten Note.md",
+    "Python/Handwitten Note.md",
     "Excalidraw",
     "IOS dev - Swift",
-    "python/img/Pasted image 20261019152828.png",
-    "python/img/Pasted image 20261019152939.png",
-    "python/img/Pasted image 20261019153225.png",
-    "python/img/Pasted image 20261019153333.png",
-    "python/img/Pasted image 20261019154440.png",
-    "python/img/Pasted image 20261019154956.png",
-    "python/01_basics/chai.py",
+    "Python/img/Pasted image 20261019152828.png",
+    "Python/img/Pasted image 20261019152939.png",
+    "Python/img/Pasted image 20261019153225.png",
+    "Python/img/Pasted image 20261019153333.png",
+    "Python/img/Pasted image 20261019154440.png",
+    "Python/img/Pasted image 20261019154956.png",
+    "Python/01_basics/chai.py",
     "python/img/chai.py",
-    "python/01_basics/__pycache__/hello_python.cpython-315.pyc",
-    "python/01_basics/__pycache__",
-    "python/img",
+    "Python/01_basics/__pycache__/hello_python.cpython-315.pyc",
+    "Python/01_basics/__pycache__",
+    "Python/img",
     "IOS dev - Swift/img",
-    "python/01_basics/hello_python.py",
-    "python/README.md",
+    "Python/01_basics/hello_python.py",
+    "Python/README.md",
     "Plans/Python OOP + DSA.md"
   ]
 }

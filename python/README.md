@@ -1,5 +1,4 @@
-In this folder I am sharing all python learning note
-All the notes is done in Obsidian and using Excalidraw extension 
+This folder contains my 
 
 The playlist I am following : 
 https://youtu.be/v9bOWjwdTlg
