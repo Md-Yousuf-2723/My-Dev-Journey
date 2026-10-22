@@ -9,12 +9,12 @@ All the notes are taken in obsidian using Excalidraw plugin. To view my handwrit
 
 ## The playlist I followed : 
 ![[Pasted image 20261022193116.png]]
+### Lectures 
 [Video - 01](https://youtu.be/v9bOWjwdTlg) -- Time : 10 : 22 : 06
 [Video - 02](https://youtu.be/Cri8__uGk-g) -- Time : 3 : 58 : 23
 The lectures are given in ==Hindi==. But the note is done in English.
 ## My  Handwritten Note
 Click -> [[Handwritten Note]] <- Click
-
 # This is not sponsored
 > Subscribe and support this kind of passionate developers and their youtube channel. This are pure gems. For their time and love for coding and teaching, many young developers are getting inspired including me. 
 > Love, respect and Thankful to them. 
