@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b19d5817e5681533",
+        "id": "280f17395764a03a",
         "type": "tabs",
         "children": [
           {
-            "id": "745da370b8e24bfe",
+            "id": "a2c7c66aa78d5c3f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Swift/Notes.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Notes"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,10 +186,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "745da370b8e24bfe",
+  "active": "a2c7c66aa78d5c3f",
   "lastOpenFiles": [
-    "Prompt I used.md",
     "Swift/Notes.md",
+    "Prompt I used.md",
     "python/Handwitten Note.md",
     "Swift/README.md",
     "Excalidraw",
