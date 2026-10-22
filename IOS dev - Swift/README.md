@@ -16,4 +16,7 @@ All the notes are taken in obsidian using Excalidraw plugin. To view my handwrit
 ### All the notes are given in order
 1 . [[01_Swift Basics Bootcamp]]
 
+# This is not sponsored
+> Subscribe and support this kind of passionate developers and their youtube channel. This are 
+
 
