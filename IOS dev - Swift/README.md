@@ -11,7 +11,8 @@ All the notes are taken in obsidian using Excalidraw plugin. To view my handwrit
 ## The learning guide I am following : 
 
 ![[Pasted image 20261022191659.png]]
-[Website](https://www.swiftful-thinking.com/store)  [Youtube Channel](https://www.youtube.com/@SwiftfulThinking/featured) 
+![[Pasted image 20261022194441.png]]
+Check this links : [Website](https://www.swiftful-thinking.com/store)  [Youtube Channel](https://www.youtube.com/@SwiftfulThinking/featured) 
 ## Click to go to my notes
 ### All the notes are given in order
 1 . [[01_Swift Basics Bootcamp]]
