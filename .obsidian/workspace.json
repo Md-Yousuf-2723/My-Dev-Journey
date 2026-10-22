@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "280f17395764a03a",
+        "id": "c08911679e406212",
         "type": "tabs",
         "children": [
           {
-            "id": "6018ac97980dfe18",
+            "id": "79e1e7af14da74ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "b0ad1fdfd664288a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IOS dev - Swift/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
