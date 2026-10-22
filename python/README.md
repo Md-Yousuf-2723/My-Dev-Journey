@@ -9,6 +9,8 @@ All the notes are taken in obsidian using Excalidraw plugin. To view my handwrit
 
 ## The playlist I followed : 
 ![[Pasted image 20261022193116.png]]
+![[Pasted image 20261022194228.png]]
+![[Pasted image 20261022194246.png]]
 ### Lectures 
 [Video - 01](https://youtu.be/v9bOWjwdTlg) -- Time : 10 : 22 : 06
 [Video - 02](https://youtu.be/Cri8__uGk-g) -- Time : 3 : 58 : 23
