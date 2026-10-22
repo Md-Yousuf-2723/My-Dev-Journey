@@ -35,7 +35,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,12 +205,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c5b71ead6758797e",
+  "active": "b0ad1fdfd664288a",
   "lastOpenFiles": [
+    "Python/README.md",
     "Python/img/Pasted image 20261022194246.png",
     "Python/img/Pasted image 20261022194228.png",
     "IOS dev - Swift/README.md",
-    "Python/README.md",
     "Python/img/Pasted image 20261022193116.png",
     "Python/Handwritten Note.md",
     "IOS dev - Swift/img/Pasted image 20261022191659.png",
@@ -226,7 +227,6 @@
     "Python/img/Pasted image 20261019152828.png",
     "Python/img/Pasted image 20261019152939.png",
     "Python/img/Pasted image 20261019153225.png",
-    "Python/img/Pasted image 20261019153333.png",
     "Python/codes/01_basics/chai.py",
     "python/img/chai.py",
     "Python/codes/01_basics/__pycache__/hello_python.cpython-315.pyc",
