@@ -11,10 +11,12 @@
             "id": "79e1e7af14da74ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Python/Handwritten Note.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Handwritten Note"
             }
           }
         ]
@@ -186,7 +188,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c5b71ead6758797e",
+  "active": "79e1e7af14da74ee",
   "lastOpenFiles": [
     "IOS dev - Swift/img/Pasted image 20261022194441.png",
     "Python/README.md",
