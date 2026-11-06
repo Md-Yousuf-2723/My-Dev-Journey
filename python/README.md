@@ -1,4 +1,4 @@
-# This folder contains my python learning 
+# This folder contains my python learning from yt video 
 All the notes are taken in obsidian using Excalidraw plugin. To view my handwritten notes, 
 1. [Download](https://obsidian.md/download) obsidian 
 2. Clone the repo. 
