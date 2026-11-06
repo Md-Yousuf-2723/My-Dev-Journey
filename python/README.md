@@ -1,4 +1,4 @@
-# This folder contains my python learning from yt video 
+# This folder contains my python learning from YouTube lecture
 All the notes are taken in obsidian using Excalidraw plugin. To view my handwritten notes, 
 1. [Download](https://obsidian.md/download) obsidian 
 2. Clone the repo. 
@@ -6,6 +6,8 @@ All the notes are taken in obsidian using Excalidraw plugin. To view my handwrit
 4. In obsidian, go to settings > community plugin > exit restricted mode
 5. Then click on browse and search ==Excalidraw ==.
 6. Install and enable it. 
+## Topics that is covered : 
+
 
 ## The playlist I followed : 
 ![[Pasted image 20261022193116.png]]
