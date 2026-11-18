@@ -48,4 +48,7 @@ print(tuple_str[1])
 print(type(coordinate))
 
 # Sequence type - Range
-# Synatx : range(start, end, step)
+# Synatx : range(start, stop, steps)
+range(1,10,1)
+print(range)
+print(type(range))
