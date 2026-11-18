@@ -1,4 +1,4 @@
-# Mapping Type
+# Mapping Type : Dictionary 
 # - Keys must be unique
 # Syntax : 
 # variable = {
@@ -16,3 +16,5 @@ print(Student)
 print(Student["name"])
 print(Student["age"])
 print(Student["dept"])
+
+print(type(Student))
