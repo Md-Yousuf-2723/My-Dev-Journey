@@ -5,13 +5,12 @@ num = 3/2 + 5j/2 # complex num
 temparature = -5 # neg int
 name = "Yousuf" # string
 language = "Python" # string
-single = 'Hello kopzz lets' \ 
-' write another word' # string with /
+single =  # string with /
 double = "Hello python lets write another word" # string - double quote
 multiple_line = """Hello 
 Yousuf
-How are U ? """
-
+How are U ? """ # string with multiple line input
+# All the variable print statements
 print(age1)
 print(age2)
 print(age3)
@@ -21,7 +20,7 @@ print(language)
 print(single)
 print(double)
 print(multiple_line)
-
+# Printing their types
 print(type(age1))
 print(type(age2))
 print(type(age3))
