@@ -13,3 +13,4 @@ print(type(data))
 data3 = bytearray([1, 2, 3])
 print(data3[0]) # 1
 print(data3[1]) # 2
+print(data3)
