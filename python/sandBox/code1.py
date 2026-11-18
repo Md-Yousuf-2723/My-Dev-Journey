@@ -11,6 +11,7 @@ double = "Hello python lets write another word" # string - double quote
 multiple_line = """Hello 
                 Yousuf
                 How are U ? """ # string with multiple line input
+is_stu = True
 
 # All the variable print statements
 print(age1)
