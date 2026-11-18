@@ -6,11 +6,11 @@ temparature = -5 # neg int
 name = "Yousuf" # string
 language = "Python" # string
 single = 'Single line' \
-         'input' # string with /
+         ' input' # string with /
 double = "Hello python lets write another word" # string - double quote
 multiple_line = """Hello 
-                Yousuf
-                How are U ? """ # string with multiple line input
+Yousuf
+How are U ? """ # string with multiple line input
 is_stu = True # bool type - 1
 is_working = False # bool type - 0 
 
@@ -28,7 +28,7 @@ print(is_stu)
 print(is_working)
 # basic condition 
 height = 160 
-print(height >= 150) # true
+print(height >= 150) # True
 
 # Printing their types
 print(type(age1))
