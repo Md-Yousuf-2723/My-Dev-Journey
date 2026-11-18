@@ -1,2 +1,2 @@
-data = b"Hello"
-print(data)
+data = b"Hello" # b --> Binary type
+print(data) # Output: bHello
