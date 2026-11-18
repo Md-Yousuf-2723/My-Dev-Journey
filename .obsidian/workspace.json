@@ -206,6 +206,7 @@
   },
   "active": "9c3abec815bff385",
   "lastOpenFiles": [
+    "Python/sandBox/code1.py",
     "Python/sandBox",
     "Python/README.md",
     "Python/Handwritten Note.md",
@@ -232,7 +233,6 @@
     "Python/codes/01_basics/__pycache__/hello_python.cpython-315.pyc",
     "Python/codes/01_basics/__pycache__",
     "Python/img",
-    "IOS dev - Swift/img",
     "Plans/Python OOP + DSA.md"
   ]
 }
