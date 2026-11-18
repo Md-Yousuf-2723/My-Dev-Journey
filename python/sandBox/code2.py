@@ -23,6 +23,8 @@ print(fruits[0])
 print(fruits[1])
 print(fruits[2])
 print(fruits[3])
+# Printing type
+print(type(fruits))
 # Number list
 num = [11, 22, 33]
 print("-----Number list-----")
@@ -36,4 +38,5 @@ print(num[2])
 # - Faster
 # Sytax : ()
 coordinate = (10, 20, 30)
-print(coordinate(0), )
+        #     0   1   2 
+print(coordinate(0), coordinate(1), coordinate(2))
