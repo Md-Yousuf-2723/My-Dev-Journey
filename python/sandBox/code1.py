@@ -12,11 +12,14 @@ print(age1)
 print(age2)
 print(age3)
 print(num)
-
-
-
+print(name)
+print(language)
+print(statement)
 
 print(type(age1))
 print(type(age2))
 print(type(age3))
 print(type(num))
+print(type(name))
+print(type(language))
+print(type(statement))
