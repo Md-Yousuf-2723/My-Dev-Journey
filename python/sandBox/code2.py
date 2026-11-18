@@ -50,6 +50,12 @@ print(type(coordinate))
 # Sequence type - Range
 # Synatx : range(start, stop, steps)
 print("----Range----")
-range(1,10,1) # The range is 
+range(1,10,1) # The range is created but can't be print
 range = [] # range can be used as variable name in list
 range = () # range can be used as variable name in Tuple
+# Printing range
+# Unpack
+print(*)
+# Convert it to list
+
+# For loop
