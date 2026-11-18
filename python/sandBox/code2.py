@@ -56,7 +56,7 @@ range(1,10,1) # The range is created but can't be print
 # Printing range
 # Unpack
 print(*range(1,10,2)) # * --> to unpack
-print()
+print(*range(1,20,2), sep=", ") # sep=", " used to separeat by ','
 # Convert it to list
-
+print(list(range(1,)))
 # For loop
