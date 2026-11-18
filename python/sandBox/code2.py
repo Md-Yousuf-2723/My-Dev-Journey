@@ -21,4 +21,4 @@ print(fruits[2])
 print(fruits[3])
 
 num = [11, 22, 33]
-print
+print(num[0])
