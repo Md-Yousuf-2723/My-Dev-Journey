@@ -11,7 +11,8 @@ double = "Hello python lets write another word" # string - double quote
 multiple_line = """Hello 
                 Yousuf
                 How are U ? """ # string with multiple line input
-is_stu = True
+is_stu = True # bool type - 1
+is_working = False # bool type - 0 
 
 # All the variable print statements
 print(age1)
@@ -23,6 +24,8 @@ print(language)
 print(single)
 print(double)
 print(multiple_line)
+print(is_stu)
+print(is_working)
 
 # Printing their types
 print(type(age1))
@@ -34,3 +37,5 @@ print(type(language))
 print(type(single))
 print(type(double))
 print(type(multiple_line))
+print(type(is_stu))
+print(type(is_working))
