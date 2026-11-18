@@ -12,7 +12,7 @@ numbers2.remove(2)
 print(numbers2) # {1, 3, 4, 5, 6, 7}
 
 # Frozen set
-# - Immutable
+# - Immutable : cannot add or remove elements.
 number_froz = frozenset([1, 2, 3, 4])
 print(number_froz)
 print(type(number_froz))
