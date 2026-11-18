@@ -7,7 +7,7 @@ name = "Yousuf"
 language = "Python"
 single = 'Hello kopzz lets' \
 ' write another word'
-double = "Hello python"
+double = "Hello python lets write another word"
 multiple_line = """Hello
 Yousuf
 How are U ? """
@@ -28,4 +28,6 @@ print(type(age3))
 print(type(num))
 print(type(name))
 print(type(language))
-# print(type(statement))
+print(type(single))
+print(type(double))
+print(type(multiple_line))
