@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ef4112c427753aa9",
@@ -206,9 +205,9 @@
   },
   "active": "9c3abec815bff385",
   "lastOpenFiles": [
-    "Pasted image 20261118222743.png",
-    "Pasted image 20261118222710.png",
-    "Pasted image 20261118222352.png",
+    "Python/img/Pasted image 20261118222743.png",
+    "Python/img/Pasted image 20261118222710.png",
+    "Python/img/Pasted image 20261118222352.png",
     "Python/notes.md",
     "Python/notes",
     "Python/data_Types/none_Type.py",
