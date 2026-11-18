@@ -1,6 +1,12 @@
 # Mapping Type
 # - Keys must be unique
-variable = {
-    "key": "value"
-    "key": "value"
+# Syntax : 
+# variable = {
+#     "key1": "value"
+#     "key2": "value"
+# }
+Student = {
+    "name": "Yousuf",
+    "age": 23,
+    "dept": "ECE"
 }
