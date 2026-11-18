@@ -10,4 +10,12 @@ print(fruits[2])
 print(fruits[3])
 
 # List is mutable
-fruits[]
+fruits[1] = "Grapes"
+# new list fruits = ["Apple", "Grapes", "Mango", "Orange"]
+                    #  0         1         2        3
+
+print("-----New list-----")
+print(fruits[0])
+print(fruits[1])
+print(fruits[2])
+print(fruits[3])
