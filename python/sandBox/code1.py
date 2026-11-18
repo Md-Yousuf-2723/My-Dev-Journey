@@ -1,14 +1,14 @@
 age1 = 23 # int
 age2 = 23.5 # float
-age3 = "Twenty three" 
-num = 3/2 + 5j/2
-temparature = -5
-name = "Yousuf"
-language = "Python"
-single = 'Hello kopzz lets' \
-' write another word'
-double = "Hello python lets write another word"
-multiple_line = """Hello
+age3 = "Twenty three" # string
+num = 3/2 + 5j/2 # complex num
+temparature = -5 # neg int
+name = "Yousuf" # string
+language = "Python" # string
+single = 'Hello kopzz lets' \ 
+' write another word' # string with /
+double = "Hello python lets write another word" # string - double quote
+multiple_line = """Hello 
 Yousuf
 How are U ? """
 
