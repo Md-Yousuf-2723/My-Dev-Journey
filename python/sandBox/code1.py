@@ -1,7 +1,7 @@
 age1 = 23
 age2 = 23.5
 age3 = "Twenty three"
-num = 3/2 + 5/2j
+num = 3/2 + 5j/2
 temparature = -5
 
 print(age1)
