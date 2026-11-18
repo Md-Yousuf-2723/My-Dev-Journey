@@ -41,3 +41,8 @@ coordinate = (10, 20, 30)
         #     0   1   2 
 print("----Tuple----")
 print(coordinate[0], coordinate[1], coordinate[2])
+tuple_str = ("Man", "Woman")
+print(tuple_str[0])
+print(tuple_str[1])
+# Printing type
+print(type(coordinate))
