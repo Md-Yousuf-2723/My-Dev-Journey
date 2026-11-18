@@ -26,6 +26,9 @@ print(double)
 print(multiple_line)
 print(is_stu)
 print(is_working)
+# basic condition 
+height = 160 
+print(height >= 150) # true
 
 # Printing their types
 print(type(age1))
