@@ -1,4 +1,7 @@
 # Sequence type - List
+# - Mutable
+# - Use more memory
+# - S
 fruits = ["", "Banana", "Mango"]
          #  0         1         2
 fruits.append("Orange") # Append adds at last of a list
