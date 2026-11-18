@@ -39,4 +39,5 @@ print(num[2])
 # Sytax : ()
 coordinate = (10, 20, 30)
         #     0   1   2 
-print(coordinate(0), coordinate(1), coordinate(2))
+print("----Tuple----")
+print(coordinate[0], coordinate[1], coordinate[2])
