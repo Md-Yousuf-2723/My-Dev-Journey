@@ -10,3 +10,7 @@ Student = {
     "age": 23,
     "dept": "ECE"
 }
+# Printing all
+print(Student)
+# Printing specific
+print(Student["name"])
