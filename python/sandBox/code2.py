@@ -3,7 +3,7 @@
 # - Use more memory
 # - Slower
 # - Syntax : []
-fruits = ["", "Banana", "Mango"]
+fruits = ["Apple", "Banana", "Mango"]
          #  0         1         2
 fruits.append("Orange") # Append adds at last of a list
 # new list fruits = ["Apple", "Banana", "Mango", "Orange"]
