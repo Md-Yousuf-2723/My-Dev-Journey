@@ -14,3 +14,5 @@ Student = {
 print(Student)
 # Printing specific
 print(Student["name"])
+print(Student["age"])
+print(Student["dept"])
