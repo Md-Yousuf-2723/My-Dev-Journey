@@ -1,7 +1,7 @@
 # Sequence type - List
 # - Mutable
 # - Use more memory
-# - S
+# - Slower
 fruits = ["", "Banana", "Mango"]
          #  0         1         2
 fruits.append("Orange") # Append adds at last of a list
@@ -22,6 +22,14 @@ print(fruits[0])
 print(fruits[1])
 print(fruits[2])
 print(fruits[3])
-
+# Number list
 num = [11, 22, 33]
+print("-----Number list-----")
 print(num[0])
+print(num[1])
+print(num[2])
+
+# Sequence type - Tuple
+# - Immutable
+# - Use less memory
+# - Faster
