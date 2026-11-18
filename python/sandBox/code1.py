@@ -1,6 +1,6 @@
-age1 = 23
-age2 = 23.5
-age3 = "Twenty three"
+age1 = 23 # int
+age2 = 23.5 # float
+age3 = "Twenty three" 
 num = 3/2 + 5j/2
 temparature = -5
 name = "Yousuf"
