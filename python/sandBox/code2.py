@@ -2,6 +2,7 @@
 # - Mutable
 # - Use more memory
 # - Slower
+# - Syntax : []
 fruits = ["", "Banana", "Mango"]
          #  0         1         2
 fruits.append("Orange") # Append adds at last of a list
@@ -33,3 +34,6 @@ print(num[2])
 # - Immutable
 # - Use less memory
 # - Faster
+# Sytax : ()
+coordinate = (10, 20, 30)
+print(coordinate(0), )
