@@ -5,8 +5,9 @@ num = 3/2 + 5j/2
 temparature = -5
 name = "Yousuf"
 language = "Python"
-statement = "Hello" \
-"world"
+single = 'Hello kopzz'
+double = "Hello python"
+multiple_line = """"
 
 print(age1)
 print(age2)
