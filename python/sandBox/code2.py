@@ -58,5 +58,7 @@ range(1,10,1) # The range is created but can't be print
 print(*range(1,10,2)) # * --> to unpack
 print(*range(1,20,2), sep=", ") # sep=", " used to separeat by ','
 # Convert it to list
-print(list(range(1,)))
+print(list(range(1,30,3)))
 # For loop
+for val in range(1,40,5):
+    print(val)
