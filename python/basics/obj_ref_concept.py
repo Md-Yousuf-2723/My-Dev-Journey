@@ -11,3 +11,15 @@ print(x is y) # Checks if x and y pointing same obj in memory or not
 y = 23 # Here I explicity declared y will be pointing another obj in the memory whoes value is 23
 print(x == y) # True
 print(x is y) # False
+
+# Same of List
+list1 = [1, 2, 3]
+list2 = list1[:]
+# Here [:] means slicing
+# Syntax : [start:end]
+# [1,2,3,4]
+print(list1)
+print(list2)
+list1[0] = 55
+print(list1)
+print(list2) 
