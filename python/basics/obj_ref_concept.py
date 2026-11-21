@@ -14,12 +14,13 @@ print(x is y) # False
 
 # Same of List
 list1 = [1, 2, 3]
-list2 = list1[:]
-# Here [:] means slicing
+list2 = list1[:] # list1 is copied to list
+# Here [:] means slicing start to end
 # Syntax : [start:end]
-# [1,2,3,4]
+# [1,2,3,4] --> [0:2] --> [1,2] {stops before index 2}
+#! pro
 print(list1)
 print(list2)
 list1[0] = 55
 print(list1)
-print(list2) 
+print(list2)
