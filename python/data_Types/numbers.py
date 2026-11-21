@@ -75,4 +75,7 @@ deci_to_bin = bin(12)
 # binary of 4 = 0010
 # so left shitf of 4 = 0100 which is 8
 # left shift means shift one but to left 
-# same 12 
+# same 12 = 1100
+# left shift = 00011000 which is 24 
+# so, 12 << 1 --> 12 is left shift by 1 bit which gives = 24
+# same 
