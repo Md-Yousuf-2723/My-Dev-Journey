@@ -31,8 +31,9 @@ flag1 = True # boolean - 1 is decimal value of true
 flag2 = False # boolean - 0 is decimal value of False
 
 # some conditions 
-con1 = 1 == 2 # eFalse - 0
-con2 = 2 > 1 # True - 1
-con3 = 3 < 4 # True - 1
-con4 = 2 != 4 # True - 1
-con5 = 4 >= 4
+con1 = 1 == 2 # check value, False - 0
+con2 = 2 > 1 # geaterthan, True - 1
+con3 = 3 < 4 # lessthan, True - 1
+con4 = 2 != 4 # not equal, True - 1
+con5 = 4 >= 4 # greater equal, True - 1
+con6 = 
