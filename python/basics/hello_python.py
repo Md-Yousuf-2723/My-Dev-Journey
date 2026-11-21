@@ -1,5 +1,7 @@
+# print() is used to show output
 print("Hello World")
-
+# def means : define. 
+# Used to define a funtion
 def chai(n):
     print(n)
     print("This is a chai function")
