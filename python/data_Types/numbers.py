@@ -40,3 +40,7 @@ con6 = 6 <= 5 # less equal, False - 0
 
 # Operations can be done in Tuples and by default it prints in tuples
 x = 2
+y = 3
+z = 4
+print(x,y,z) # (2,3,4) printed with () means it is treated as tuples
+print(x * 2, y + 4, z / 2) # (4, 7, )
