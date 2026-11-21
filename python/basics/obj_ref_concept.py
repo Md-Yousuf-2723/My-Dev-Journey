@@ -18,9 +18,12 @@ list2 = list1[:] # list1 is copied to list
 # Here [:] means slicing start to end
 # Syntax : [start:end]
 # [1,2,3,4] --> [0:2] --> [1,2] {stops before index 2}
-#! pro
+#! prove that list1 and list2 is pointing to diff obj
 print(list1)
 print(list2)
 list1[0] = 55
 print(list1)
 print(list2)
+# Also
+print(list1 == list2)
+print(list1 is list2)
