@@ -28,4 +28,7 @@ ceil_val = math.ceil(3.4) # 4
 neg_ceil_val = math.ceil(-3.4) # 3 : -3 is greater that -3.4
 
 flag1 = True # boolean - 1 is decimal value of true
-flag2 = False 
+flag2 = False # boolean - 0 is decimal value of False
+
+# some conditions 
+con1 = 1 == 2
