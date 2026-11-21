@@ -18,4 +18,8 @@ import math # Give access to mathmatical tools
 print(math.pi)
 import random
 random.random() # Generates random numbers
-random.choice([1,2,3,4,5])
+random.choice([1,2,3,4,5]) # randomly chooses any 
+# number from the list I have given to it
+
+username = "Yousuf"
+print(dir(username)) # dir tells 
