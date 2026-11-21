@@ -117,5 +117,5 @@ numbers2.add(7) # {1, 2, 3, 4, "chai", 3.15, 7} --> 7 is added in last
 number_froz = frozenset([1, 2, 3, 4])
 # Intersection
 int_sec = numbers & numbers2 # {1,2}
-union_set = numbers | numbers2 # {1,2,3,4,"chai",3.15}
+union_set = numbers | numbers2 # {1,2,3.15,3,4,7,"chai"}
 diff_set = numbers - numbers2
