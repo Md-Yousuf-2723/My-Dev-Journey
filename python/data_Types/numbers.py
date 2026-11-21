@@ -15,4 +15,9 @@ sub_of_complex_num = complex_num1 - complex_num2
 mult_of_complex_num = complex_num1 * complex_num2
 div_of_complex_num = complex_num1 / complex_num2
 
-div_with_pricision = 5 // 2
+div_with_pricision = 5 // 2 # gives the floor value
+# Floor --> The lowest value
+# tranc --> Toward 0 value
+# celing --> the upper value
+import math
+floor_val = floor()
