@@ -78,4 +78,6 @@ deci_to_bin = bin(12)
 # same 12 = 1100
 # left shift = 00011000 which is 24 
 # so, 12 << 1 --> 12 is left shift by 1 bit which gives = 24
-# same 
+# same goes for right shift 
+# 12 = 1100
+# right shift by 1 bit 0110 which 6
