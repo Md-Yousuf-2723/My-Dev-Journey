@@ -60,3 +60,7 @@ var1 = (x + y) * z # This should be done
 # python can handle : 'chai' + 'code', the + operator is automatically overloaded and understands from the values that, the output is chaicode
 str1 = 'chai' + 'code' # chaicode
 # But it is not a good practise
+
+# Number bases : 
+oct_dig = 0o20 # 0o --> Octal
+hex_dig = 0xFF # 0x --> hexadecimal
