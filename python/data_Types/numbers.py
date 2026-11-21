@@ -118,4 +118,4 @@ number_froz = frozenset([1, 2, 3, 4])
 # Intersection
 int_sec = numbers & numbers2 # {1,2}
 union_set = numbers | numbers2 # {1,2,3.15,3,4,7,"chai"}
-diff_set = numbers - numbers2
+diff_set = numbers - numbers2 # set() --> NULL set
