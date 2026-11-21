@@ -64,3 +64,7 @@ str1 = 'chai' + 'code' # chaicode
 # Number bases : 
 oct_dig = 0o20 # 0o --> Octal
 hex_dig = 0xFF # 0x --> hexadecimal
+bin_dig = 0b0110 # 0b --> binary 
+deci_from_oct = oct(20)
+deci_from_hex = hex(FF)
+deci_from_bin = bin(0110)
