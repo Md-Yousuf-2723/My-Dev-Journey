@@ -87,3 +87,5 @@ right = 14 >> 2 # Right shift by 2 bits
 # 14 = 1110 - 14 >> 2 = 0111 - 3
 
 import random
+random.random() # Generates a random num between 0 to 1
+list1 = ["chai",3.15,"coffee",]
