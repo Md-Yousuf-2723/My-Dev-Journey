@@ -46,4 +46,7 @@ print(x,y,z) # (2,3,4) printed with () means it is treated as tuples
 print(x * 2, y + 4, z / 2) # (4, 7, 2)
 
 # Python can handle numbers really well and with more digit of precisions
-# 
+# ** --> means power 2**100 means : 2^100
+print(2**1000) # can give the acurate value
+
+var1 = 
