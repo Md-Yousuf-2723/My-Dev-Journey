@@ -62,9 +62,9 @@ str1 = 'chai' + 'code' # chaicode
 # But it is not a good practise
 
 # Number bases : 
-oct_dig = 0o20 # 0o --> Octal
-hex_dig = 0xFF # 0x --> hexadecimal
-bin_dig = 0b0110 # 0b --> binary 
+oct_dig = 0o20 # 0o --> Octal : oct to deci
+hex_dig = 0xFF # 0x --> hexadecimal : hex to deci 
+bin_dig = 0b0110 # 0b --> binary : bin to deci
 deci_to_oct = oct(20)
 deci_to_hex = hex(64)
 deci_to_bin = bin(12)
