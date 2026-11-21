@@ -1,3 +1,2 @@
-dir(str)       # Lists string methods and attributes
-help(str)      # Explains the string class
-help(str.upper) # Explains the upper() method
+list1 = [1, 2, 3]
+list2 = list1
