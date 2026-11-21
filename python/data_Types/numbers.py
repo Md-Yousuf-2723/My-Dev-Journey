@@ -71,4 +71,7 @@ bin_dig2 = int('0110',2) # Another method to convert to deci
 deci_to_oct = oct(20) 
 deci_to_hex = hex(64) 
 deci_to_bin = bin(12)
-# Bit
+# Bitwise operator
+# binary of 4 = 0010
+# so left shitf of 4 = 0100 which is 8
+# left shift means shift one but 
