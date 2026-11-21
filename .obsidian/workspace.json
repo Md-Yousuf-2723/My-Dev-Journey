@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "8edc6210e251db64",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Python/Handwritten Note.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Handwritten Note"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ef4112c427753aa9",
@@ -204,20 +190,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8edc6210e251db64",
+  "active": "f44b290864024122",
   "lastOpenFiles": [
+    "Python/Handwritten Note.md",
+    "Python/code_with_Notes/numbers.py",
+    "Python/code_with_Notes/__pycache__/hello_python.cpython-315.pyc",
+    "Python/code_with_Notes/some_in_built_modules.py",
+    "Python/code_with_Notes/obj_ref_concept.py",
+    "Python/code_with_Notes/hello_python.py",
+    "Python/code_with_Notes/for_loop.py",
+    "Python/code_with_Notes/chai.py",
+    "Python/code_with_Notes/__pycache__",
+    "Python/code_with_Notes",
     "Python/data_Types_own/sequece_Type.py",
-    "Python/data_Types_own/none_Type.py",
-    "Python/data_Types_own/mapping_Type.py",
-    "Python/data_Types_own/binary_Type.py",
-    "Python/data_Types_own/basic_Types.py",
-    "Python/data_Types_own",
-    "Python/numbers.py",
     "Pasted image 20261121220216.png",
-    "Python/data_Types/numbers.py",
-    "Python/basics/obj_ref_concept.py",
-    "Python/basics/some_in_built_modules.py",
-    "Python/basics/for_loop.py",
     "Python/img/Pasted image 20261121190057.png",
     "Python/img/Pasted image 20261121190117.png",
     "Python/img/Pasted image 20261121190144.png",
@@ -227,7 +213,6 @@
     "Python/img/Pasted image 20261121190837.png",
     "Python/img/Pasted image 20261121190852.png",
     "Python/img/Pasted image 20261121190911.png",
-    "Python/Handwritten Note.md",
     "Python/notes.md",
     "Python/README.md",
     "IOS dev - Swift/README.md",
