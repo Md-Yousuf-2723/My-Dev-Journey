@@ -14,6 +14,8 @@ sum_of_complex_num = complex_num1 + complex_num2
 sub_of_complex_num = complex_num1 - complex_num2
 mult_of_complex_num = complex_num1 * complex_num2
 div_of_complex_num = complex_num1 / complex_num2
+# Complex number important concept : 
+# com_num = 5 + 3/2j this will output 5 + 1.5j
 
 div_with_pricision = 5 // 2 # gives the floor value
 # Floor --> The lowest value
