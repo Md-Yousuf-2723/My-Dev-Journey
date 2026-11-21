@@ -71,3 +71,4 @@ bin_dig2 = int('0110',2) # Another method to convert to deci
 deci_to_oct = oct(20) 
 deci_to_hex = hex(64) 
 deci_to_bin = bin(12)
+# Bit
