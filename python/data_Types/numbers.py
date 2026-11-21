@@ -74,4 +74,5 @@ deci_to_bin = bin(12)
 # Bitwise operator
 # binary of 4 = 0010
 # so left shitf of 4 = 0100 which is 8
-# left shift means shift one but 
+# left shift means shift one but to left 
+# same 12 
