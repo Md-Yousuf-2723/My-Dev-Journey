@@ -52,4 +52,5 @@ print(2**1000) # can give the acurate value
 # var1 = x + y * z -->  This is not a industry oriented practise also not a good code. It will be rejected in code review. We know y * z will be done firstly then added with x but giving paranthesis is necessary for code readability
 var1 = (x + y) * z # This should be done
 
-# python can handle : 'chai' + code'
+# python can handle : 'chai' + 'code', the + operator is automatically overloaded and understands from the values that, the output is chaicode
+str1 = 'chai' + 'code' # chaicode
