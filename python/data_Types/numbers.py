@@ -20,6 +20,8 @@ div_with_pricision = 5 // 2 # gives the floor value
 # tranc --> Toward 0 value
 # celing --> the upper value
 import math
-floor_val = math.floor(3.5)
-neg_floor_val = math.floor(-3.5)
-tranc_val = math.trunc(3.5)
+floor_val = math.floor(3.5) # 3
+neg_floor_val = math.floor(-3.5) # 4 is lower than -3.5
+tranc_val = math.trunc(3.5) # 3 : near toward 0
+neg_tranc_val = math.trunc(-3.5) # 3 : near toward 0
+ceil_val = math.ceil(3.4)
