@@ -14,5 +14,8 @@ from importlib import reload # importlib is a collection
 reload(hello_python) # reload used to reload a module if 
 # any change is made
 
-import math
+import math # Give access to mathmatical tools
 print(math.pi)
+import random
+random.random() # Generates random numbers
+random.choice([1,2,3,4,5])
