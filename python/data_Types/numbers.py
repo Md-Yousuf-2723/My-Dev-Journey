@@ -43,4 +43,7 @@ x = 2
 y = 3
 z = 4
 print(x,y,z) # (2,3,4) printed with () means it is treated as tuples
-print(x * 2, y + 4, z / 2) # (4, 7, )
+print(x * 2, y + 4, z / 2) # (4, 7, 2)
+
+# Python can handle numbers really well and with more digit of precisions
+# 
