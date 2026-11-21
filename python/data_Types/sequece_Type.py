@@ -39,7 +39,7 @@ print(num[2])
 coordinate = (10, 20, 30, "Chai")
         #     0   1   2 
 print("----Tuple----")
-print(coordinate[0], coordinate[1], coordinate[2])
+print(coordinate[0], coordinate[1], coordinate[2], coordinate[3])
 tuple_str = ("Man", "Woman") # tuple can hold strings
 print(tuple_str[0])
 print(tuple_str[1])
