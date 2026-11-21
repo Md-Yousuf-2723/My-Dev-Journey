@@ -3,4 +3,7 @@
 import os # os : Operating Sysem --> a module name of python
 # that comes inbuilt in python
 os.getcwd() # getcwd --> cwd : current work directory
-# 
+# getcwd() is a funtion written in os module
+
+import sys # Sys is inbuilt module that comes with py
+sys.platform
