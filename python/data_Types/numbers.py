@@ -93,3 +93,5 @@ random.choice(list1) # randomly chooses one from the list1
 random.shuffle(list1) # Shuffles the list1 randomly
 # Shuffle 1 : ['coffee', 3.15, 4, 'chai'] - output of random.shuffle
 # Shuffle 2 : ['chai', 3.15, 4, 'coffee'] - output of random.shuffle
+sum_x = 0.1 + 0.1 + 0.1 
+from decimal import Decimal
