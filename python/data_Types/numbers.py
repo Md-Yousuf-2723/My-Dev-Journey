@@ -85,3 +85,5 @@ left = 14 << 2 # left shift by 2 bits
 # 14 = 1110 - 14 << 2 = 00111000 - 56
 right = 14 >> 2 # Right shift by 2 bits
 # 14 = 1110 - 14 >> 2 = 0111 - 3
+
+import random
