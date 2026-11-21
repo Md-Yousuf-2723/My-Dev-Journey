@@ -9,11 +9,6 @@ import sys # Sys is inbuilt module that comes with py
 sys.platform # platfrom is variable in sys module which
 # holds the platfrom name I am working currently
 
-from importlib import reload # importlib is a collection 
-# of library, from the importlib I have imported reload
-reload(hello_python) # reload used to reload a module if 
-# any change is made
-
 import math # Give access to mathmatical tools
 print(math.pi)
 import random
