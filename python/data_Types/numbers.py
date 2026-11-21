@@ -96,4 +96,8 @@ random.shuffle(list1) # Shuffles the list1 randomly
 sum_x = 0.1 + 0.1 + 0.1 # 0.30000000000000004
 # This is problem of precision in py
 from decimal import Decimal # To solve the problem this module is imported
-sum_y = Decimal('0.1')
+sum_y = Decimal('0.1') + Decimal('0.1') + Decimal('0.1')
+# 0.3 
+# Fractions can also be handled by module import
+import fractions
+frac1 = 
