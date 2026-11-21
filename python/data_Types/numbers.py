@@ -50,4 +50,6 @@ print(x * 2, y + 4, z / 2) # (4, 7, 2)
 print(2**1000) # can give the acurate value
 
 # var1 = x + y * z -->  This is not a industry oriented practise also not a good code. It will be rejected in code review. We know y * z will be done firstly then added with x but giving paranthesis is necessary for code readability
-var1 = (x + y) * z 
+var1 = (x + y) * z # This should be done
+
+# python can handle : 'chai' + code'
