@@ -36,4 +36,7 @@ con2 = 2 > 1 # geaterthan, True - 1
 con3 = 3 < 4 # lessthan, True - 1
 con4 = 2 != 4 # not equal, True - 1
 con5 = 4 >= 4 # greater equal, True - 1
-con6 = 
+con6 = 6 <= 5 # less equal, False - 0
+
+# Operations can be done in Tuples and by default it prints in tuples
+x = 2
