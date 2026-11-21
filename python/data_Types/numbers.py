@@ -17,7 +17,8 @@ div_of_complex_num = complex_num1 / complex_num2
 # Complex number important concept : 
 # com_num = 5 + 3/2j this will output 5 - 1.5j cause it is treated as 5 + 3/(2j)
 # So to make it write, it can be written as
-# 5 + (3/2)*1j 
+# 5 + (3/2)*1j --> 1 is necessary or it will show a error
+# or, 5 + 3j/2
 
 div_with_pricision = 5 // 2 # gives the floor value
 # Floor --> The lowest value
