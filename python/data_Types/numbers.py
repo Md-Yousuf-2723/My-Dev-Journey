@@ -100,4 +100,6 @@ sum_y = Decimal('0.1') + Decimal('0.1') + Decimal('0.1')
 # 0.3 
 # Fractions can also be handled by module import
 import fractions
-frac1 = 
+frac1 = fractions.Fraction(2 , 7) # means 2 / 7
+# Another way to import the specific 
+from fractions import Fraction
