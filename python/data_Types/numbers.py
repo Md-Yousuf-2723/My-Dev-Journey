@@ -93,5 +93,7 @@ random.choice(list1) # randomly chooses one from the list1
 random.shuffle(list1) # Shuffles the list1 randomly
 # Shuffle 1 : ['coffee', 3.15, 4, 'chai'] - output of random.shuffle
 # Shuffle 2 : ['chai', 3.15, 4, 'coffee'] - output of random.shuffle
-sum_x = 0.1 + 0.1 + 0.1 
-from decimal import Decimal
+sum_x = 0.1 + 0.1 + 0.1 # 0.30000000000000004
+# This is problem of precision in py
+from decimal import Decimal # To solve the problem this module is imported
+sum_y = Decimal('0.1')
