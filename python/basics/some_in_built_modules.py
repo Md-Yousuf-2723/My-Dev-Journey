@@ -22,4 +22,6 @@ random.choice([1,2,3,4,5]) # randomly chooses any
 # number from the list I have given to it
 
 username = "Yousuf"
-print(dir(username)) # dir tells 
+print(dir(username)) # dir tells what functionalities 
+# the obj type has. Like here username is string type. So it 
+# will tell what functionalities 
