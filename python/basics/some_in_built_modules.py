@@ -6,4 +6,8 @@ os.getcwd() # getcwd --> cwd : current work directory
 # getcwd() is a funtion written in os module
 
 import sys # Sys is inbuilt module that comes with py
-sys.platform
+sys.platform # platfrom is variable in sys module which
+# holds the platfrom name I am working currently
+
+from importlib import reload
+reload()
