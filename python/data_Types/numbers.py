@@ -110,11 +110,12 @@ frac1 = Fraction(3,7) # 3 / 7
 # - Unordered 
 # - Doesn't allow duplicates
 numbers = {1, 1, 2} # Output : {1, 2} 
-numbers2 = {1, 2, 3, 4, 5, 6}
+numbers2 = {1, 2, 3, 4, "chai", 3.15}
 numbers2.add(7) # {1, 2, 3, 4, 5, 6, 7} --> 7 is added in last
 # Frozen set
 # - Immutable : cannot add or remove elements.
 number_froz = frozenset([1, 2, 3, 4])
 # Intersection
-int_sec = numbers & numbers2
-union_set = numbers | numbers2
+int_sec = numbers & numbers2 # {1,2}
+union_set = numbers | numbers2 # {1,2,3,4,"chai",3.15}
+diff_set = numbers - numbers2
