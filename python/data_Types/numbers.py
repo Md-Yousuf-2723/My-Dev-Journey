@@ -91,4 +91,5 @@ random.random() # Generates a random num between 0 to 1
 list1 = ["chai",3.15,"coffee",4]
 random.choice(list1) # randomly chooses one from the list1
 random.shuffle(list1) # Shuffles the list1 randomly
-# Shu
+# Shuffle 1 : ['coffee', 3.15, 4, 'chai'] - output of random.shuffle
+# Shuffle 2 : ['chai', 3.15, 4, 'coffee'] - output of random.shuffle
