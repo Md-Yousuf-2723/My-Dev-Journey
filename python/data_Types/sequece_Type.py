@@ -36,7 +36,7 @@ print(num[2])
 # - Use less memory
 # - Faster
 # Sytax : ()
-coordinate = (10, 20, 30)
+coordinate = (10, 20, 30, "Chai")
         #     0   1   2 
 print("----Tuple----")
 print(coordinate[0], coordinate[1], coordinate[2])
